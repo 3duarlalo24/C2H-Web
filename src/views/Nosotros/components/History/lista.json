@@ -1,0 +1,40 @@
+[{
+    "items": [{
+        "id_componente": 4,
+        "title": "UNA HISTORIA DE GRANDES LOGROS",
+        "items": [{
+            "id_componente": 7,
+            "label": "Abril de 1994, abre sus puertas Análisis Delia Barraza."
+        }, {
+            "id_componente": 7,
+            "label": "Agosto de 2002, se convierte en el primer laboratorio de análisis clínicos a nivel nacional, en recibir la certificación ISO 9001:2000."
+        },{
+            "id_componente": 7,
+            "label":"Octubre de 2003, inicia su proceso de expansión con Sucursal Las Quintas."
+        },{
+            "id_componente": 7,
+            "label":"Marzo de 2006, apertura Suc. Guadalupe, donde actualmente tiene sus oficinas corporativas; ese mismo año adquiere la franquicia de DNA Vita, Banco de células madre."
+        },{
+            "id_componente": 7,
+            "label":"Marzo de 2008, recibe distintivo como Empresa Socialmente Responsable (ESR), mismo que ha mantenido por 9 años consecutivos."
+        },{
+            "id_componente": 7,
+            "label":"Mayo de 2008, crea el departamento Especializado en Hematología"
+        },{
+            "id_componente": 7,
+            "label":"Octubre de 2009, inicia el servicio de Imagenología con la inauguración de Suc. Country Courts."
+        },{
+            "id_componente": 7,
+            "label":"Enero de 2011, implementa los departamentos de Patología, Genética y Servicio de Enfermería."
+        },{
+            "id_componente": 7,
+            "label":"Diciembre de 2011, logra la Acreditación en la Norma ISO 15189:2007 (específica para laboratorios clínicos) por la Entidad Mexicana de Acreditación (ema); único organismo autorizado en México para acreditar a los laboratorios de análisis clínicos."
+        },{
+            "id_componente": 7,
+            "label":"Noviembre de 2015, logra la Acreditación en la Norma ISO 15189:2012 (específica para Laboratorios clínicos) por la Entidad Mexicana de Acreditación (ema)."
+        },{
+            "id_componente": 7,
+            "label":"Julio de 2016, Se implementan los servicios de Mastografía y Ultrasonido en Suc. Paliza."
+        }]
+    }]
+}]
